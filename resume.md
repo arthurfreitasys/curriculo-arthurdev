@@ -1,80 +1,69 @@
-# Your Name
+# Arthur Silva de Freitas
 
 <div class="contact">
 
-- (123) 456-7890
-- [your@email.com](mailto:your@email.com)
-- [linkedin.com/in/name](linkedin.com/in/name)
-- [github.com/name](https://github.com/name)
+- (19) 997274361
+- [arthur.freitasys@gmail.com](mailto:arthur.freitasys@gmail.com)
+- [linkedin.com/in/arthurfreitasys](linkedin.com/in/arthurfreitasys)
+- [github.com/arthurfreitasys](https://github.com/arthurfreitasys)
 
 </div>
 
-## Education
+## Formação
 
-### Southwestern University <hr/> Aug. 2018 &ndash; May 2021
+### FATEC <hr/> Jan, 2025 &ndash; Dez, 2027
 
-<!-- optionally include GPA if >=3.7 -->
-<!-- Generally, don't include coursework. If you do, only if you're a student & if they're upper level courses. -->
+#### Análise e Desenvolvimento de Sistemas<hr/> Mogi Mirim, SP
 
-#### Bachelor of Arts in Computer Science, Minor in Business<hr/> Georgetown, TX
+## Experiência
 
-## Experience
+### Estagiário de TI <hr/> Jan, 2026 &ndash; Atual
+#### Faculdade Franco Montoro <hr/> Mogi Guaçu, SP
 
-### Undergraduate Research Assistant <hr/> Jul 2021 &ndash; Present
+- Presto suporte técnico aos usuários dos sistemas da faculdade, resolvendo problemas de hardware e software com autonomia e proatividade, inclusive em demandas fora da minha área de domínio.
+- Realizo manutenção e configuração de computadores, notebooks, impressoras, scanners, projetores e TVs, garantindo a continuidade das operações acadêmicas e administrativas.
 
-#### Texas A&M University <hr/> College Station, TX
+### Atendente <hr/> Jan, 2025 &ndash; Dez, 2025
+#### MiraGás <hr/> Mogi Guaçu, SP
 
-- Developed a REST API using FastAPI and PostgreSQL to store data from learning management systems
-- Developed a full-stack web application using Flask, React, PostgreSQL and Docker to analyze GitHub data
-- Explored ways to visualize GitHub collaboration in a classroom setting
-
-### Information Technology Support Specialist<hr/> Sep. 2018 &ndash; Present
-
-#### Southwestern University <hr/> Georgetown, TX
-
-- Communicate with managers to set up campus computers used on campus
-- Assess and troubleshoot computer problems brought by students, faculty and staff
-- Maintain upkeep of computers, classroom equipment, and 200 printers across campus
-
-### Artificial Intelligence Research Assistant<hr/> May 2019 &ndash; July 2019
-
-#### Southwestern University <hr/> Georgetown, TX
-
-- Explored methods to generate video game dungeons based off of The Legend of Zelda
-- Developed a game in Java to test the generated dungeons
-- Contributed **50K+** lines of code to an established codebase via Git
-- Conducted a human subject study to determine which video game dungeon generation technique is enjoyable
-- Wrote an 8-page paper and gave multiple presentations on-campus
-- Presented virtually to the World Conference on Computational Intelligence
-
-<!-- Older resume bits can be commented out so that you can keep the info without deleting it -->
+- Realizo vendas de forma presencial, por telefone e via WhatsApp, garantindo agilidade e satisfação no atendimento ao cliente
+- Organizo os pedidos e os repasso aos motoristas, assegurando eficiência nas entregas e bom fluxo operacional
 
 <!-- ### Information Technology Support Specialist <hr/> Sep. 2018 &ndash; Present
 
 ### Artificial Intelligence Research Assistant <hr/> May 2019 &ndash; July 2019 -->
 
-## Projects
+## Projetos
 
-### [Gitlytics](https://example.com)<span>&nbsp;| _Python, Flask, React, PostgreSQL, Docker_</span> <hr/> June 2020 &ndash; Present
+### [Projeto Colégio Sanquim](https://github.com/arthurfreitasys/colegioSanquim)<span>&nbsp;| _HTML, CSS, PHP, MySQL_</span> <hr/> [Maio, 2025] &ndash; [Em andamento]
 
-- Developed a full-stack web application using with Flask serving a REST API with React as the frontend
-- Implemented GitHub OAuth to get data from user's repositories
-- Visualized GitHub data to show collaboration
-- Used Celery and Redis for asynchronous tasks
+- Desenvolvi um sistema web de gestão escolar em grupo, para um cliente real, ao longo de 6 semestres do curso de ADS (Ainda em andamento)
+- Promovi organização e transparência entre professores, alunos e gestores ao centralizar essas informações em uma única plataforma
+- Construí a aplicação com PHP e MySQL no back-end e HTML/CSS no front-end
+- Modelei o sistema com diagramas UML de casos de uso, de classe e de atividade, guiando o desenvolvimento.
+- Elaborei a documentação completa do projeto, cobrindo requisitos, modelagem e funcionamento do sistema
+- Colaborei com a equipe e com o cliente no levantamento de requisitos e na entrega  de funcionalidades
 
-### Simple Paintball<span>&nbsp;| _Spigot API, Java, Maven, TravisCI, Git_</span><hr/> May 2018 &ndash; May 2020
+### [Sistema Biblioteca](https://github.com/arthurfreitasys/SistemaBiblioteca)<span>&nbsp;| _Java, Spring Boot, Spring Data JPA, H2, Git_</span><hr/> [Set, 2026]
 
-- Developed a Minecraft server plugin to entertain kids during free time for a previous job
-- Published plugin to websites gaining **2K+ downloads** and an average 4.5/5-star review
-- Implemented continuous delivery using TravisCI to build the plugin upon new a release
-- Collaborated with Minecraft server administrators to suggest features and get feedback about the plugin
+- Desenvolvi o back-end de um sistema de gestão de biblioteca com Spring Boot e Spring Data JPA, usando banco H2 em memória e menu interativo no console.
+- Modelei entidades e relacionamentos (Autor, Livro, Editora, Categoria).
+- Refatorei a lógica de negócio para uma camada de serviço (LivroService), separando-a da interação com o usuário.
 
-## Technical Skills
+### [Portfólio Pessoal](https://github.com/arthurfreitasys/portfolio-arthur.dev)([Site](https://arthurfreitasys.github.io/portfolio-arthur.dev/))<span>&nbsp;| _HTML, CSS, JavaScript, Git, Figma_</span><hr/> [Jan, 2026] &ndash; [Mar, 26]
 
-> **Languages**: Java, Python, C/C++, SQL, PostgreSQL, JavaScript, HTML, CSS, R
+- Desenvolvi meu portfólio pessoal para apresentar minha trajetória, habilidades e projetos como desenvolvedor.
+- Criei a interface com HTML, CSS e JavaScript, prototipado previamente no Figma
+- Estruturei o site em seções (início, sobre mim, habilidades e projetos), com atalhos para redes sociais e currículo
 
-> **Frameworks**: React, Node.js, Flask, JUnit, WordPress, Material-UI, FastAPI
+## Habilidades Técnicas
 
-> **Developer Tools**: Git, Docker, TravisCI, Google Cloud Platform, VS Code, AWS
+> **Linguagens**: Java, HTML, CSS
 
-> **Libraries**: pandas, NumPy, Matplotlib
+> **Frameworks e Bibliotecas**: Spring Boot, Spring Data JPA.
+
+> **Bancos de Dados**: SQL Server, PostgreSQL(Supabase)
+
+> **Ferramentas de Desenvolvimento**: Git, GitHub, Figma.
+
+> **Modelagem**: UML (casos de uso, classes e atividades).
