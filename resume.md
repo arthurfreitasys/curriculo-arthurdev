@@ -15,19 +15,6 @@
 
 #### Análise e Desenvolvimento de Sistemas<hr/> Mogi Mirim, SP
 
-## Experiência
-
-### Estagiário de TI <hr/> Jan, 2026 &ndash; Atual
-#### Faculdade Franco Montoro <hr/> Mogi Guaçu, SP
-
-- Presto suporte técnico aos usuários dos sistemas da faculdade, resolvendo problemas de hardware e software com autonomia e proatividade, inclusive em demandas fora da minha área de domínio.
-- Realizo manutenção e configuração de computadores, notebooks, impressoras, scanners, projetores e TVs, garantindo a continuidade das operações acadêmicas e administrativas.
-
-### Atendente <hr/> Jan, 2025 &ndash; Dez, 2025
-#### MiraGás <hr/> Mogi Guaçu, SP
-
-- Realizo vendas de forma presencial, por telefone e via WhatsApp, garantindo agilidade e satisfação no atendimento ao cliente
-- Organizo os pedidos e os repasso aos motoristas, assegurando eficiência nas entregas e bom fluxo operacional
 
 <!-- ### Information Technology Support Specialist <hr/> Sep. 2018 &ndash; Present
 
@@ -55,6 +42,20 @@
 - Desenvolvi meu portfólio pessoal para apresentar minha trajetória, habilidades e projetos como desenvolvedor.
 - Criei a interface com HTML, CSS e JavaScript, prototipado previamente no Figma
 - Estruturei o site em seções (início, sobre mim, habilidades e projetos), com atalhos para redes sociais e currículo
+
+## Experiência
+
+### Estagiário de TI <hr/> Jan, 2026 &ndash; Atual
+#### Faculdade Franco Montoro <hr/> Mogi Guaçu, SP
+
+- Presto suporte técnico aos usuários dos sistemas da faculdade, resolvendo problemas de hardware e software com autonomia e proatividade, inclusive em demandas fora da minha área de domínio.
+- Realizo manutenção e configuração de computadores, notebooks, impressoras, scanners, projetores e TVs, garantindo a continuidade das operações acadêmicas e administrativas.
+
+### Atendente <hr/> Jan, 2025 &ndash; Dez, 2025
+#### MiraGás <hr/> Mogi Guaçu, SP
+
+- Realizo vendas de forma presencial, por telefone e via WhatsApp, garantindo agilidade e satisfação no atendimento ao cliente
+- Organizo os pedidos e os repasso aos motoristas, assegurando eficiência nas entregas e bom fluxo operacional
 
 ## Habilidades Técnicas
 
