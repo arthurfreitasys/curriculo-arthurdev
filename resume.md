@@ -2,11 +2,15 @@
 
 <div class="contact">
 
-- (19) 997274361
+- (19) 99727-4361
 - [arthur.freitasys@gmail.com](mailto:arthur.freitasys@gmail.com)
 - [linkedin.com/in/arthurfreitasys](linkedin.com/in/arthurfreitasys)
 - [github.com/arthurfreitasys](https://github.com/arthurfreitasys)
 
+</div>
+<div align=center>
+Estudante de ADS com foco em desenvolvimento back-end Java/Spring Boot
+<br>com experiência em suporte de TI e projeto real para cliente
 </div>
 
 ## Formação
@@ -24,18 +28,17 @@
 
 ### [Projeto Colégio Sanquim](https://github.com/arthurfreitasys/colegioSanquim)<span>&nbsp;| _HTML, CSS, PHP, MySQL_</span> <hr/> [Maio, 2025] &ndash; [Em andamento]
 
-- Desenvolvi um sistema web de gestão escolar em grupo, para um cliente real, ao longo de 6 semestres do curso de ADS (Ainda em andamento)
-- Promovi organização e transparência entre professores, alunos e gestores ao centralizar essas informações em uma única plataforma
+- Desenvolvi um sistema web de gestão escolar em grupo, promovendo organização e transparência entre professores, alunos e gestores de uma escola local ao centralizar essas informações em uma única plataforma.
 - Construí a aplicação com PHP e MySQL no back-end e HTML/CSS no front-end
 - Modelei o sistema com diagramas UML de casos de uso, de classe e de atividade, guiando o desenvolvimento.
 - Elaborei a documentação completa do projeto, cobrindo requisitos, modelagem e funcionamento do sistema
-- Colaborei com a equipe e com o cliente no levantamento de requisitos e na entrega  de funcionalidades
 
-### [Sistema Biblioteca](https://github.com/arthurfreitasys/SistemaBiblioteca)<span>&nbsp;| _Java, Spring Boot, Spring Data JPA, H2, Git_</span><hr/> [Set, 2026]
+### [LutaCerta - API de MMA ](https://github.com/arthurfreitasys/LutaCerta)<span>&nbsp;| _Java, Spring Boot, Spring Data JPA, PostgreSQL, Mockito, Swagger, Postman, Git_</span><hr/> [Out, 2026]
 
-- Desenvolvi o back-end de um sistema de gestão de biblioteca com Spring Boot e Spring Data JPA, usando banco H2 em memória e menu interativo no console.
-- Modelei entidades e relacionamentos (Autor, Livro, Editora, Categoria).
-- Refatorei a lógica de negócio para uma camada de serviço (LivroService), separando-a da interação com o usuário.
+- Desenvolvi uma API RESTful para gerenciar lutadores, eventos e lutas de MMA, em arquitetura em camadas (Controller, Service, Repository), com persistência em PostgreSQL (Supabase).
+- Modelei relacionamentos entre entidades (Evento, Luta e Lutador) e implementei regras de negócio.
+- Integrei o Swagger e o Postman para explorar e testar os endpoints durante o desenvolvimento.
+- Escrevi testes unitários da camada de serviço com Mockito.
 
 ### [Portfólio Pessoal](https://github.com/arthurfreitasys/portfolio-arthur.dev)([Site](https://arthurfreitasys.github.io/portfolio-arthur.dev/))<span>&nbsp;| _HTML, CSS, JavaScript, Git, Figma_</span><hr/> [Jan, 2026] &ndash; [Mar, 26]
 
@@ -54,17 +57,17 @@
 ### Atendente <hr/> Jan, 2025 &ndash; Dez, 2025
 #### MiraGás <hr/> Mogi Guaçu, SP
 
-- Realizo vendas de forma presencial, por telefone e via WhatsApp, garantindo agilidade e satisfação no atendimento ao cliente
-- Organizo os pedidos e os repasso aos motoristas, assegurando eficiência nas entregas e bom fluxo operacional
+- Realizei vendas de forma presencial, por telefone e via WhatsApp, garantindo agilidade e satisfação no atendimento ao cliente
+- Organizei os pedidos e os repassava aos motoristas, assegurando eficiência nas entregas.
 
 ## Habilidades Técnicas
 
-> **Linguagens**: Java, HTML, CSS
+> **Linguagens**: Java, HTML, CSS.
 
-> **Frameworks e Bibliotecas**: Spring Boot, Spring Data JPA.
+> **Frameworks e Bibliotecas**: Spring Boot, Spring Data JPA, Mockito.
 
-> **Bancos de Dados**: SQL Server, PostgreSQL(Supabase)
+> **Bancos de Dados**: SQL Server, PostgreSQL(Supabase).
 
-> **Ferramentas de Desenvolvimento**: Git, GitHub, Figma.
+> **Ferramentas de Desenvolvimento**: Git, GitHub, Postman, Figma.
 
-> **Modelagem**: UML (casos de uso, classes e atividades).
+> **Idiomas**: Inglês (Intermediário).
