@@ -33,7 +33,7 @@ Estudante de ADS com foco em desenvolvimento back-end Java/Spring Boot
 - Modelei o sistema com diagramas UML de casos de uso, de classe e de atividade, guiando o desenvolvimento.
 - Elaborei a documentação completa do projeto, cobrindo requisitos, modelagem e funcionamento do sistema
 
-### [LutaCerta - API de MMA ](https://github.com/arthurfreitasys/LutaCerta)<span>&nbsp;| _Java, Spring Boot, Spring Data JPA, PostgreSQL, Mockito, Swagger, Postman, Git_</span><hr/> [Out, 2026]
+### [LutaCerta - API](https://github.com/arthurfreitasys/LutaCerta)<span>&nbsp;| _Java, Spring Boot, Spring Data JPA, PostgreSQL, Mockito, Swagger, Postman, Git_</span><hr/> [Out, 2026]
 
 - Desenvolvi uma API RESTful para gerenciar lutadores, eventos e lutas de MMA, em arquitetura em camadas (Controller, Service, Repository), com persistência em PostgreSQL (Supabase).
 - Modelei relacionamentos entre entidades (Evento, Luta e Lutador) e implementei regras de negócio.
